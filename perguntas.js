@@ -30,12 +30,6 @@ criaCartao(
 
 criaCartao(
     'Supernatural',
-    'Qual é o nome do amigável caçador veterano que serve como uma figura paterna e mentor para Sam e Dean?',
-    'Bobby Singer.'
-)
-
-criaCartao(
-    'Supernatural',
     'Que música clássica do Kansas toca sempre no início de cada final de temporada "The Road So Far"?',
     'Carry On Wayward Son.'
 )
