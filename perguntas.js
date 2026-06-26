@@ -52,8 +52,3 @@ criaCartao(
     'Carry On Wayward Son.'
 )
 
-criaCartao(
-    'Supernatural',
-    'Qual é o nome da arma mística capaz de matar quase qualquer criatura sobrenatural, criada pelo próprio Samuel Colt?',
-    'O Colt.'
-)
