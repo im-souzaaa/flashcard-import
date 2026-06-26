@@ -24,13 +24,13 @@ criaCartao(
 
 criaCartao(
     'Supernatural',
-    'Qual é o nome do demónio de olhos amarelos que foi o principal antagonista nas primeiras temporadas e responsável pela morte da mãe deles?',
+    'Qual é o nome do demônio de olhos amarelos que foi o principal antagonista nas primeiras temporadas e responsável pela morte da mãe deles?',
     'Azazel.'
 )
 
 criaCartao(
     'Supernatural',
-    'Que substância comum no dia a dia é usada pelos caçadores para afastar fantasmas e demânios e fazer barreiras)?',
+    'Que substância comum no dia a dia é usada pelos caçadores para afastar fantasmas e demônios e fazer barreiras?',
     'Sal.'
 )
 
